@@ -5,9 +5,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/agustinhopneto/gostack-desafio02?color=%2304D361">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%ff5050">
 </p>
 
 ## :rocket: Sobre o desafio
