@@ -4,8 +4,6 @@
   Desafio: Criar um cronograma de estudos!
 </h3>
 
-<br>
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%ff5050">
 </p>
